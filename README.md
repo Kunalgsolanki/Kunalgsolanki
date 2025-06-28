@@ -53,8 +53,8 @@
 
 ## 📊 GitHub Stats
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalsolanki2002107&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsolanki2002107&layout=compact&theme=radical)
+![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kunalgsolanki&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalgsolanki&layout=compact&theme=radical)
 
 ---
 
