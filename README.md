@@ -47,7 +47,7 @@ I actively build and maintain personal projects, and contribute to open source. 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalsolanki2002107)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solanki-kunal-14b595224/)  
 [![Portfolio](https://img.shields.io/badge/Website-Kunal's%20Portfolio-informational?logo=vercel&logoColor=white)](https://kgs-porfolio.vercel.app)
 
 ---
