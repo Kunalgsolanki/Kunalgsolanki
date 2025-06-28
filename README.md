@@ -58,7 +58,7 @@ I actively build and maintain personal projects, and contribute to open source. 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kunalsolanki2002107&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Kunalgsolanki&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
