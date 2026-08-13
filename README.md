@@ -279,12 +279,11 @@ Currently experimenting with an AI-powered application that analyzes property la
 ---
 
 # 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kunalgsolanki&theme=radical&show_icons=true&hide_border=false" alt="Kunal Solanki GitHub Stats" /> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Kunalgsolanki\&theme=radical\&show_icons=true\&hide_border=false)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalgsolanki&theme=radical&layout=compact&hide_border=false" alt="Kunal Solanki Top Languages" /> </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalgsolanki\&theme=radical\&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kunalgsolanki\&theme=radical\&hide_border=false)
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Kunalgsolanki&theme=radical&hide_border=false" alt="Kunal Solanki GitHub Streak" /> </p>
 
 ---
 
