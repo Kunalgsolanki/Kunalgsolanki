@@ -272,21 +272,6 @@ Currently experimenting with an AI-powered application that analyzes property la
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Kunalgsolanki\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
-
----
-
-# 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kunalgsolanki&theme=radical&show_icons=true&hide_border=false" alt="Kunal Solanki GitHub Stats" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalgsolanki&theme=radical&layout=compact&hide_border=false" alt="Kunal Solanki Top Languages" /> </p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Kunalgsolanki&theme=radical&hide_border=false" alt="Kunal Solanki GitHub Streak" /> </p>
-
----
-
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/solanki-kunal-14b595224/)
